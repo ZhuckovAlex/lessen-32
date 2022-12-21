@@ -1,0 +1,14 @@
+{
+
+  "guitar": {
+    "category": "blocks",
+    "subtitle": "lessen.guitar",
+    "sounds": [
+      {
+        "name": "lessen:guitar",
+        "stream": true
+      }
+    ]
+  }
+
+}
